@@ -1,4 +1,4 @@
-# ÖnerMesene
+# Önermesene
 
 Bu proje, kullanıcıların deneyimlerini paylaşabildiği ve şikayetlerini iletebildiği bir web platformudur.
 
